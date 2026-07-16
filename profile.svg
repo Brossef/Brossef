@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1342" height="636" viewBox="0 0 1342 636">
+<svg xmlns="http://www.w3.org/2000/svg" width="1530" height="664" viewBox="0 0 1530 664">
 <rect width="100%" height="100%" fill="#0d1117"/>
-<g font-family="Cascadia Mono, Fira Code, Consolas, monospace" font-size="14" font-weight="400">
-<text x="24" y="45" fill="#8b949e" xml:space="preserve">                       ...:..:..;;;x++$$                                  </text>
-<text x="666.3199999999999" y="45" xml:space="preserve"><tspan fill="#58a6ff">youssef@github ------------------------------------------------------------</tspan></text>
-<text x="24" y="66" fill="#8b949e" xml:space="preserve">               :     ..      ...    ..;;:xx                               </text>
-<text x="666.3199999999999" y="66" xml:space="preserve"><tspan fill="#79c0ff">. OS:</tspan><tspan fill="#484f58"> .................. </tspan><tspan fill="#c9d1d9">Windows, Ubuntu Server 24.04</tspan></text>
-<text x="24" y="87" fill="#8b949e" xml:space="preserve">         ;::.  ...                         ...:xx$                        </text>
-<text x="666.3199999999999" y="87" xml:space="preserve"><tspan fill="#79c0ff">. Uptime:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">22 years, 9 months</tspan></text>
-<text x="24" y="108" fill="#8b949e" xml:space="preserve">       .....                                     x++XX                    </text>
-<text x="666.3199999999999" y="108" xml:space="preserve"><tspan fill="#79c0ff">. Host:</tspan><tspan fill="#484f58"> ................ </tspan><tspan fill="#c9d1d9">University of Toronto Mississauga</tspan></text>
-<text x="24" y="129" fill="#8b949e" xml:space="preserve">    ;;:..         :..::;;;;;;;;;;::;::...        ...::X                   </text>
-<text x="666.3199999999999" y="129" xml:space="preserve"><tspan fill="#79c0ff">. Kernel:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">Backend Software Engineer</tspan></text>
-<text x="24" y="150" fill="#8b949e" xml:space="preserve">    .....      ;$$$$$$$$$$$$$$XXXXXXXXxx+++;..        .                   </text>
-<text x="666.3199999999999" y="150" xml:space="preserve"><tspan fill="#79c0ff">. Education:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">Computer Science, Mathematics &amp; Statistics</tspan></text>
-<text x="24" y="171" fill="#8b949e" xml:space="preserve">    ;;.      XX$$$$$$$$$$$$$$$XXXXXXXXXXx+++++;::      ;;                 </text>
-<text x="666.3199999999999" y="171" xml:space="preserve"><tspan fill="#79c0ff">. Location:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">Mississauga, Ontario, Canada</tspan></text>
-<text x="24" y="192" fill="#8b949e" xml:space="preserve">    ...   ::$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$$$$$XXXXXxx++++++:     ::+                </text>
-<text x="666.3199999999999" y="192" xml:space="preserve"><tspan fill="#79c0ff">. IDE:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#c9d1d9">VS Code, IntelliJ, nano</tspan></text>
-<text x="24" y="213" fill="#8b949e" xml:space="preserve">    ;;.  .$$$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$XXXXXXxxxxxx++;     ++                 </text>
-<text x="666.3199999999999" y="213" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
-<text x="24" y="234" fill="#8b949e" xml:space="preserve">       ..:$$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;$$$$$&amp;&amp;&amp;$$$$$$XXXxxxxx+;;+::   ++.                </text>
-<text x="666.3199999999999" y="234" xml:space="preserve"><tspan fill="#79c0ff">. Languages.Programming:</tspan><tspan fill="#484f58"> </tspan><tspan fill="#c9d1d9">Java, Python, JavaScript/TypeScript, R</tspan></text>
-<text x="24" y="255" fill="#8b949e" xml:space="preserve">       :::$$$XXx++xxxXX$&amp;&amp;$&amp;&amp;&amp;$$$$$x;;........:;;;::  :xx                 </text>
-<text x="666.3199999999999" y="255" xml:space="preserve"><tspan fill="#79c0ff">. Languages.Real:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#c9d1d9">English, Arabic</tspan></text>
-<text x="24" y="276" fill="#8b949e" xml:space="preserve">       ;;.$$+XX$$$$XXxx+xx$&amp;&amp;$XXx+++xxXXxxxxxx++++;;::+xx                 </text>
-<text x="666.3199999999999" y="276" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
-<text x="24" y="297" fill="#8b949e" xml:space="preserve">         $$$$XXx;;:....;++X$$$xx;;;+xx..:;;:::++++;;+++                   </text>
-<text x="666.3199999999999" y="297" xml:space="preserve"><tspan fill="#79c0ff">. Hobbies.Software:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#c9d1d9">Backend development, Linux, Self-hosting</tspan></text>
-<text x="24" y="318" fill="#8b949e" xml:space="preserve">         $$$$$$X$$XXXxxxXX$$$X++;++xXXXXXXXXXXx+++++++x                   </text>
-<text x="666.3199999999999" y="318" xml:space="preserve"><tspan fill="#79c0ff">. Hobbies.Hardware:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#c9d1d9">PC building, Networking, Homelab</tspan></text>
-<text x="24" y="339" fill="#8b949e" xml:space="preserve">         $$$$$$$$$$$$$$$$$$$$Xxx+++xXX$$$$$$XXXxx+++;;x                   </text>
-<text x="666.3199999999999" y="339" xml:space="preserve"><tspan fill="#79c0ff">. Hobbies.Gaming:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#c9d1d9">Minecraft, Valorant, Rocket league, Halo</tspan></text>
-<text x="24" y="360" fill="#8b949e" xml:space="preserve">         X$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$$$XXX+;;+XX$$&amp;&amp;&amp;$$$Xxxx++;;+                   </text>
-<text x="666.3199999999999" y="360" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
-<text x="24" y="381" fill="#8b949e" xml:space="preserve">          $$&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$&amp;&amp;&amp;$XXx++xxxXX$&amp;&amp;$$$Xxxx++;;x                   </text>
-<text x="666.3199999999999" y="381" xml:space="preserve"><tspan fill="#d2a8ff">- Curret Project:</tspan></text>
-<text x="24" y="402" fill="#8b949e" xml:space="preserve">          $$&amp;&amp;&amp;&amp;&amp;&amp;$XX$$$XX+XXX++::::;;+++XX$$$XXXxxx;;                    </text>
-<text x="666.3199999999999" y="402" xml:space="preserve"><tspan fill="#79c0ff">. HomeLab:</tspan><tspan fill="#484f58"> ............. </tspan><tspan fill="#c9d1d9">Ubuntu home server</tspan></text>
-<text x="24" y="423" fill="#8b949e" xml:space="preserve">          $$$$$$$$xxx+++;;;;;xxx+++;;;++;++xXXXxxx++::                    </text>
-<text x="666.3199999999999" y="423" xml:space="preserve"><tspan fill="#79c0ff">. GameServer:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">Self-hosted Minecraft Fabric server</tspan></text>
-<text x="24" y="444" fill="#8b949e" xml:space="preserve">            $$$$$$x+++++&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X++;;xxxxxx+++;::..                    </text>
-<text x="666.3199999999999" y="444" xml:space="preserve"><tspan fill="#79c0ff">. Media:</tspan><tspan fill="#484f58"> ............... </tspan><tspan fill="#c9d1d9">Jellyfin media server</tspan></text>
-<text x="24" y="465" fill="#8b949e" xml:space="preserve">             xxxxxxxx$$$XXX$$$XXXxxx++xxxxx;++;;;:;;++X                   </text>
-<text x="666.3199999999999" y="465" xml:space="preserve"><tspan fill="#79c0ff">. Learning:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">Linux, Remote access, Wake-on-LAN, Port forwarding</tspan></text>
-<text x="24" y="486" fill="#8b949e" xml:space="preserve">               ;;;;++xx$$$Xxxxxxx+++xx+++;;::::::+::++XXXX                </text>
-<text x="666.3199999999999" y="486" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
-<text x="24" y="507" fill="#8b949e" xml:space="preserve">                  x::++;xxXxxx++;;;;;;;;;::.::xxx+;;$$$$$XXXXXX           </text>
-<text x="666.3199999999999" y="507" xml:space="preserve"><tspan fill="#d2a8ff">- Contact -----------------------------------------------------------------</tspan></text>
-<text x="24" y="528" fill="#8b949e" xml:space="preserve">             &amp;&amp;&amp;&amp;&amp;&amp;;;;;+++xxxx++++++;;;;:::xXXXxxx$$&amp;&amp;&amp;$$$$$$XXXXXXXX     </text>
-<text x="666.3199999999999" y="528" xml:space="preserve"><tspan fill="#79c0ff">. Email:</tspan><tspan fill="#484f58"> ............... </tspan><tspan fill="#c9d1d9">youssef.samaan@mail.utoronto.ca</tspan></text>
-<text x="24" y="549" fill="#8b949e" xml:space="preserve">       &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X;;$$Xxx;;;;;;;;;;;;++XXXXXXXxx$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$X  </text>
-<text x="666.3199999999999" y="549" xml:space="preserve"><tspan fill="#79c0ff">. LinkedIn:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">https://www.linkedin.com/in/youssef-samaan/</tspan></text>
-<text x="24" y="570" fill="#8b949e" xml:space="preserve">  &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x++&amp;&amp;$$$&amp;$$$$$$XX$$$$$$$$$XXX&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  </text>
-<text x="666.3199999999999" y="570" xml:space="preserve"><tspan fill="#79c0ff">. WhatsApp:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">Brossef</tspan></text>
-<text x="666.3199999999999" y="591" xml:space="preserve"><tspan fill="#79c0ff">. GitHub:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">Brossef</tspan></text>
+<g font-family="Cascadia Mono, Fira Code, Consolas, monospace" font-weight="400">
+<text x="24" y="36" font-size="12" fill="#ffffff" xml:space="preserve">                       ...:..:..;;;x++$$                                  </text>
+<text x="575.56" y="44" font-size="20" xml:space="preserve"><tspan fill="#58a6ff">youssef@github ------------------------------------------------------------</tspan></text>
+<text x="24" y="59" font-size="12" fill="#ffffff" xml:space="preserve">               :     ..      ...    ..;;:xx                               </text>
+<text x="575.56" y="66" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. OS:</tspan><tspan fill="#484f58"> .................. </tspan><tspan fill="#c9d1d9">Windows, Ubuntu Server 24.04</tspan></text>
+<text x="24" y="82" font-size="12" fill="#ffffff" xml:space="preserve">         ;::.  ...                         ...:xx$                        </text>
+<text x="575.56" y="88" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Uptime:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">22 years, 9 months</tspan></text>
+<text x="24" y="105" font-size="12" fill="#ffffff" xml:space="preserve">       .....                                     x++XX                    </text>
+<text x="575.56" y="110" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Host:</tspan><tspan fill="#484f58"> ................ </tspan><tspan fill="#c9d1d9">University of Toronto Mississauga</tspan></text>
+<text x="24" y="128" font-size="12" fill="#ffffff" xml:space="preserve">    ;;:..         :..::;;;;;;;;;;::;::...        ...::X                   </text>
+<text x="575.56" y="132" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Kernel:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">Backend Software Engineer</tspan></text>
+<text x="24" y="151" font-size="12" fill="#ffffff" xml:space="preserve">    .....      ;$$$$$$$$$$$$$$XXXXXXXXxx+++;..        .                   </text>
+<text x="575.56" y="154" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Education:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">Computer Science, Mathematics &amp; Statistics</tspan></text>
+<text x="24" y="174" font-size="12" fill="#ffffff" xml:space="preserve">    ;;.      XX$$$$$$$$$$$$$$$XXXXXXXXXXx+++++;::      ;;                 </text>
+<text x="575.56" y="176" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Location:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">Mississauga, Ontario, Canada</tspan></text>
+<text x="24" y="197" font-size="12" fill="#ffffff" xml:space="preserve">    ...   ::$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$$$$$XXXXXxx++++++:     ::+                </text>
+<text x="575.56" y="198" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. IDE:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#c9d1d9">VS Code, IntelliJ, nano</tspan></text>
+<text x="24" y="220" font-size="12" fill="#ffffff" xml:space="preserve">    ;;.  .$$$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$XXXXXXxxxxxx++;     ++                 </text>
+<text x="575.56" y="220" font-size="20" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
+<text x="24" y="243" font-size="12" fill="#ffffff" xml:space="preserve">       ..:$$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;$$$$$&amp;&amp;&amp;$$$$$$XXXxxxxx+;;+::   ++.                </text>
+<text x="575.56" y="242" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Languages.Programming:</tspan><tspan fill="#484f58"> </tspan><tspan fill="#c9d1d9">Java, Python, JavaScript/TypeScript, R</tspan></text>
+<text x="24" y="266" font-size="12" fill="#ffffff" xml:space="preserve">       :::$$$XXx++xxxXX$&amp;&amp;$&amp;&amp;&amp;$$$$$x;;........:;;;::  :xx                 </text>
+<text x="575.56" y="264" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Languages.Real:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#c9d1d9">English, Arabic</tspan></text>
+<text x="24" y="289" font-size="12" fill="#ffffff" xml:space="preserve">       ;;.$$+XX$$$$XXxx+xx$&amp;&amp;$XXx+++xxXXxxxxxx++++;;::+xx                 </text>
+<text x="575.56" y="286" font-size="20" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
+<text x="24" y="312" font-size="12" fill="#ffffff" xml:space="preserve">         $$$$XXx;;:....;++X$$$xx;;;+xx..:;;:::++++;;+++                   </text>
+<text x="575.56" y="308" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Hobbies.Software:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#c9d1d9">Backend development, Linux, Self-hosting</tspan></text>
+<text x="24" y="335" font-size="12" fill="#ffffff" xml:space="preserve">         $$$$$$X$$XXXxxxXX$$$X++;++xXXXXXXXXXXx+++++++x                   </text>
+<text x="575.56" y="330" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Hobbies.Hardware:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#c9d1d9">PC building, Networking, Homelab</tspan></text>
+<text x="24" y="358" font-size="12" fill="#ffffff" xml:space="preserve">         $$$$$$$$$$$$$$$$$$$$Xxx+++xXX$$$$$$XXXxx+++;;x                   </text>
+<text x="575.56" y="352" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Hobbies.Gaming:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#c9d1d9">Minecraft, Valorant, Rocket league, Halo</tspan></text>
+<text x="24" y="381" font-size="12" fill="#ffffff" xml:space="preserve">         X$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$$$XXX+;;+XX$$&amp;&amp;&amp;$$$Xxxx++;;+                   </text>
+<text x="575.56" y="374" font-size="20" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
+<text x="24" y="404" font-size="12" fill="#ffffff" xml:space="preserve">          $$&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$&amp;&amp;&amp;$XXx++xxxXX$&amp;&amp;$$$Xxxx++;;x                   </text>
+<text x="575.56" y="396" font-size="20" xml:space="preserve"><tspan fill="#d2a8ff">- Curret Project:</tspan></text>
+<text x="24" y="427" font-size="12" fill="#ffffff" xml:space="preserve">          $$&amp;&amp;&amp;&amp;&amp;&amp;$XX$$$XX+XXX++::::;;+++XX$$$XXXxxx;;                    </text>
+<text x="575.56" y="418" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. HomeLab:</tspan><tspan fill="#484f58"> ............. </tspan><tspan fill="#c9d1d9">Ubuntu home server</tspan></text>
+<text x="24" y="450" font-size="12" fill="#ffffff" xml:space="preserve">          $$$$$$$$xxx+++;;;;;xxx+++;;;++;++xXXXxxx++::                    </text>
+<text x="575.56" y="440" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. GameServer:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#c9d1d9">Self-hosted Minecraft Fabric server</tspan></text>
+<text x="24" y="473" font-size="12" fill="#ffffff" xml:space="preserve">            $$$$$$x+++++&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X++;;xxxxxx+++;::..                    </text>
+<text x="575.56" y="462" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Media:</tspan><tspan fill="#484f58"> ............... </tspan><tspan fill="#c9d1d9">Jellyfin media server</tspan></text>
+<text x="24" y="496" font-size="12" fill="#ffffff" xml:space="preserve">             xxxxxxxx$$$XXX$$$XXXxxx++xxxxx;++;;;:;;++X                   </text>
+<text x="575.56" y="484" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Learning:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">Linux, Remote access, Wake-on-LAN, Port forwarding</tspan></text>
+<text x="24" y="519" font-size="12" fill="#ffffff" xml:space="preserve">               ;;;;++xx$$$Xxxxxxx+++xx+++;;::::::+::++XXXX                </text>
+<text x="575.56" y="506" font-size="20" xml:space="preserve"><tspan fill="#d2a8ff">.</tspan></text>
+<text x="24" y="542" font-size="12" fill="#ffffff" xml:space="preserve">                  x::++;xxXxxx++;;;;;;;;;::.::xxx+;;$$$$$XXXXXX           </text>
+<text x="575.56" y="528" font-size="20" xml:space="preserve"><tspan fill="#d2a8ff">- Contact -----------------------------------------------------------------</tspan></text>
+<text x="24" y="565" font-size="12" fill="#ffffff" xml:space="preserve">             &amp;&amp;&amp;&amp;&amp;&amp;;;;;+++xxxx++++++;;;;:::xXXXxxx$$&amp;&amp;&amp;$$$$$$XXXXXXXX     </text>
+<text x="575.56" y="550" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. Email:</tspan><tspan fill="#484f58"> ............... </tspan><tspan fill="#c9d1d9">youssef.samaan@mail.utoronto.ca</tspan></text>
+<text x="24" y="588" font-size="12" fill="#ffffff" xml:space="preserve">       &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X;;$$Xxx;;;;;;;;;;;;++XXXXXXXxx$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$X  </text>
+<text x="575.56" y="572" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. LinkedIn:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">https://www.linkedin.com/in/youssef-samaan/</tspan></text>
+<text x="24" y="611" font-size="12" fill="#ffffff" xml:space="preserve">  &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x++&amp;&amp;$$$&amp;$$$$$$XX$$$$$$$$$XXX&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  </text>
+<text x="575.56" y="594" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. WhatsApp:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">Brossef</tspan></text>
+<text x="575.56" y="616" font-size="20" xml:space="preserve"><tspan fill="#79c0ff">. GitHub:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">Brossef</tspan></text>
 </g>
 </svg>
