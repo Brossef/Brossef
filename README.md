@@ -1,6 +1,10 @@
 <p align="center">
   <img
     src="./profile.svg"
-    alt="Youssef GitHub profile information"
+    alt="Youssef Samaan GitHub profile information"
   />
 </p>
+
+---
+
+
