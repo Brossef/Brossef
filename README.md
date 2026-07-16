@@ -29,7 +29,22 @@
   </a>
 </p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/brossef/brossef/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/brossef/brossef/snake-output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/brossef/brossef/snake-output/snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/brossef/brossef/snake-output/snake.svg"
+      alt="Brossef contribution snake animation"
+    />
+  </picture>
+</p>
 
 
 <div data-importer="border">
